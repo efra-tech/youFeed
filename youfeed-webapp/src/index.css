@@ -3,3 +3,9 @@
   font-style: normal;
   font-family: 'SF UI Text', sans-serif;
 }
+
+.a {
+  background-image: url('./imgs/wood.jpg');
+  background-size: cover;
+  height: 100%;
+}
