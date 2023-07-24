@@ -4,8 +4,10 @@
   font-family: 'SF UI Text', sans-serif;
 }
 
-.a {
-  background-image: url('./imgs/wood.jpg');
-  background-size: cover;
-  height: 100%;
+button {
+  background-color: pink;
+}
+
+button:hover {
+  background-color: rgb(125, 78, 86);
 }
