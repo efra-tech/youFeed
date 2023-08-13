@@ -4,8 +4,13 @@
   font-family: 'SF UI Text', sans-serif;
 }
 
-button {
-  background-color: pink;
+.bttn {
+  background-color: #DF4655;
+  width: 21rem;
+  height: 6rem;
+  border: 35px solid #dd4756;
+  color: white;
+  border-radius: 3%;
 }
 
 button:hover {
