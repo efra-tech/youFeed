@@ -4,10 +4,22 @@
   font-family: 'SF UI Text', sans-serif;
 }
 
-button {
-  background-color: pink;
+html {
+  height: 30% !important;
 }
 
-button:hover {
-  background-color: rgb(125, 78, 86);
+body {
+  background-image: linear-gradient(to right, #820978, #D94358);
+  border-bottom: 3.96px solid white;
+  border-top: 2.9px solid white;
+}
+
+.popupButton:hover {
+  background-color: #fccc63 !important;
+  color: white !important;
+  text-shadow: 0px 0px 3px #d8a434 !important;
+}
+
+.col-5, .col-6 {
+  max-height: 800px !important;
 }
