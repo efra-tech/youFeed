@@ -52,7 +52,7 @@ body {
     left: 0;
     right: 0;
     width: 100% !important;
-    height: 13%;
+    height: 110px !important;
   }
 
   h1 {
@@ -69,8 +69,6 @@ body {
   footer {
     padding: 210px !important;
   }
-
-  /* padding: '1.65em 7.5em 1.65em 7.5em' */
 }
 
 @media (min-width: 766px) and (max-width: 899px) {
@@ -105,7 +103,7 @@ body {
     margin-top: 13% !important;
     white-space: nowrap !important;
     width: 80% !important;
-    height: 8%;
+    height: 8% !important;
     font-size: 11px !important;
     margin-left: 2.6% !important;
   }
@@ -126,7 +124,7 @@ body {
   }
 }
 
-@media (min-width: 991.1px) and (max-width: 1199px) {
+@media (min-width: 991.1px) and (max-width: 1399px) {
   body {
     background-size: 120% 100%;
   }
