@@ -41,14 +41,14 @@ export default function App(props) {
                 Join YouFeed.io Waitlist
               </Modal.Title>
             </Modal.Header>
-            <Modal.Body style={{ maxHeight: '30%' }}>
+            <Modal.Body style={{ maxHeight: '450px' }}>
               <div
                 data-tf-widget="VypsSxqx"
                 data-tf-opacity="100"
                 data-tf-iframe-props="title=YouFeed.io Waitlist"
                 data-tf-transitive-search-params
                 data-tf-medium="snippet"
-                style={{ width: '100%', height: '500px' }}
+                style={{ width: '100%', height: '400px' }}
               >
               </div>
             </Modal.Body>
