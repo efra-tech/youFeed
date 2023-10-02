@@ -25,7 +25,9 @@ body {
 
 @media (max-width: 765px) {
   body {
-    background-size: 145% 100%;
+    background-size: 135% 100%;
+    width: 450px;
+    overflow-x: hidden;
   }
 
   .container > div {
@@ -34,9 +36,8 @@ body {
 
   h2 {
     margin-left: 15.5%;
-    font-size: 3.9em !important;
-    border-left: 2.8px solid white;
-    padding-left: 9%;
+    font-size: 3.73em !important;
+    padding-left: 0%;
     padding-bottom: 2.2%;
   }
 
@@ -45,25 +46,24 @@ body {
   }
 
   .popupButton {
-    margin-top: 28% !important;
+    margin-top: 55% !important;
     white-space: nowrap !important;
-    margin-bottom: 70% !important;
-    position: absolute !important;
-    left: 0;
-    right: 0;
-    width: 100% !important;
-    height: 110px !important;
+    margin-bottom: 40% !important;
+    position: static !important;
+    margin-left: 20% !important;
+    height: 100px !important;
+    max-width: 400px !important;
   }
 
   h1 {
-    left: 80%;
+    left: 291px !important;
   }
 
   img {
-    width: 353%;
+    width: 300%;
     padding-top: 58%;
-    padding-left: 0%;
-    padding-right: 25%;
+    padding-left: -2%;
+    padding-right: 29%;
   }
 
   footer {
