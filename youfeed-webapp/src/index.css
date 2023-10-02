@@ -25,7 +25,7 @@ body {
 
 @media (max-width: 765px) {
   body {
-    background-size: 135% 100%;
+    background-size: 145% 100%;
     width: 450px;
     overflow-x: hidden;
   }
