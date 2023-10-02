@@ -41,7 +41,7 @@ export default function App(props) {
                 Join YouFeed.io Waitlist
               </Modal.Title>
             </Modal.Header>
-            <Modal.Body>
+            <Modal.Body style={{ maxHeight: '30%' }}>
               <div
                 data-tf-widget="VypsSxqx"
                 data-tf-opacity="100"
